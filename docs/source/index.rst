@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+KUBET - LINK CHÍNH THỨC KHÔNG BỊ CHẶN ĐĂNG KÝ | ĐĂNG NHẬP KUBET88 - kubet88.cafe
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Kubet <https://kubet88.cafe/>`_, một trong những thương hiệu uy tín lâu đời trong làng cá cược, tự hào với việc sở hữu giấy phép hoạt động hợp pháp từ hơn 20 quốc gia hàng đầu thế giới. Với hơn 15 triệu thành viên, Kubet là một nền tảng cá cược và là điểm đến lý tưởng cho những ai yêu thích sự hấp dẫn và tin tưởng. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Được thành lập từ lâu, Kubet không ngừng mang đến cho người chơi những trải nghiệm đỉnh cao với đa dạng các tựa game hấp dẫn và những chương trình khuyến mãi. 
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 216b Hẻm 248 Nguyễn Thái Bình, Phường 12, Tân Bình, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0874854900. 
 
-.. toctree::
+Email: info@kubet88.cafe
 
-   usage
-   api
+Website: https://kubet88.cafe/
+
+#kubet #trangchukubet #nhacaikubet #dangkykubet #linkkubet
